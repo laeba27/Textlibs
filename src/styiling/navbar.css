@@ -1,0 +1,17 @@
+.textutil{
+    height: 60px;
+}
+.themebtn{
+    height: 40px;
+    width: 300px;
+    margin-right: 10px;
+    text-transform: capitalize;
+    font-size: 15px;
+}
+.cotainer{
+height: 60px;
+width: 100vw;
+}
+a{
+    text-decoration: none;
+}
